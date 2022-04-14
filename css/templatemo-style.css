@@ -26,13 +26,13 @@ http://www.templatemo.com/tm-515-eatery
   }
 
   h1 {
-    color:#2543EB ;
+    color: #2543EB;
     font-size: 3em;
     line-height: 50px;
   }
 
   h2 {
-    color:#2543EB ;
+    color: #353535;
     font-size: 2em;
     padding-bottom: 10px;
   }
@@ -45,6 +45,8 @@ http://www.templatemo.com/tm-515-eatery
   h3,
   h3 a {
     color: #2543EB;
+  }
+
   p {
     color: #F76CB8;
     font-size: 14px;
@@ -661,7 +663,7 @@ http://www.templatemo.com/tm-515-eatery
   }
 
   #testimonial h2 {
-    color: #F90964;
+    color: #ffffff;
   }
 
   #testimonial p,
@@ -671,7 +673,7 @@ http://www.templatemo.com/tm-515-eatery
   }
 
   #testimonial p {
-    color: #0C0C0C;
+    color: #d9d9d9;
     font-size: 20px;
     line-height: 35px;
   }
@@ -682,7 +684,7 @@ http://www.templatemo.com/tm-515-eatery
 
   .tst-author h4,
   .tst-author span {
-    color: #0C0C0C;
+    color: #b2b2b2;
   }
 
   .tst-author span {
