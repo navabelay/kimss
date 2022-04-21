@@ -429,7 +429,7 @@ http://www.templatemo.com/tm-515-eatery
 
   .slider .item-third .section-btn:hover,
   .slider .item-third .section-btn:focus {
-    background: #b81093;
+    background: #F586D3;
     border-color: transparent;
     color: #ffffff;
   }
@@ -728,7 +728,7 @@ http://www.templatemo.com/tm-515-eatery
   }
 
   #contact button#cf-submit {
-    background: #b81093;
+    background: #F586D3;
     border-radius: 0;
     border: 0;
     color: #ffffff;
@@ -780,7 +780,7 @@ http://www.templatemo.com/tm-515-eatery
   }
 
   .footer-open-hour {
-    background: #b81093;
+    background: #F586D3;
     background: url('../images/footer-open-hour-bg.jpg') center center no-repeat;
     background-size: cover;
     border-radius: 20px;
@@ -838,7 +838,7 @@ http://www.templatemo.com/tm-515-eatery
 
   .social-icon li a {
     border-radius: 100px;
-    color: #b81093;
+    color: #F586D3;
     font-size: 15px;
     width: 35px;
     height: 35px;
@@ -850,7 +850,7 @@ http://www.templatemo.com/tm-515-eatery
   }
 
   .social-icon li a:hover {
-    background: #b81093;
+    background: #F586D3;
     color: #ffffff;
   }
 
