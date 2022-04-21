@@ -72,7 +72,7 @@ http://www.templatemo.com/tm-515-eatery
   }
 
   a:hover, a:active, a:focus {
-    color: #b81093;
+    color: #F586D3;
     outline: none;
   }
 
@@ -142,7 +142,7 @@ http://www.templatemo.com/tm-515-eatery
   -----------------------------------------*/
 
   .section-btn {
-    background: #b81093;
+    background: #2543EB;
     border-radius: 0;
     border: 0;
     color: #f9f9f9;
@@ -221,7 +221,7 @@ http://www.templatemo.com/tm-515-eatery
   }
 
   .custom-navbar .navbar-brand span {
-    color: #b81093;
+    color: #2543EB;
   }
 
   .top-nav-collapse {
@@ -270,7 +270,7 @@ http://www.templatemo.com/tm-515-eatery
 
   .custom-navbar .nav li a:hover {
     background: transparent;
-    color: #b81093;
+    color: #2543EB;
   }
 
   .custom-navbar .navbar-nav > li > a:hover,
@@ -280,7 +280,7 @@ http://www.templatemo.com/tm-515-eatery
 
   .custom-navbar .nav li.active > a {
     background-color: transparent;
-    color: #b81093;
+    color: #F586D3;
   }
 
   .custom-navbar .navbar-toggle {
